@@ -41,7 +41,7 @@ The **Pandas Library** is arguably the most important library in the Python Data
  
 ## <a href="https://www.kaggle.com/learn/certification/mrankitgupta/pandas">Pandas</a><a href="https://www.kaggle.com/learn/certification/mrankitgupta/pandas" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="30"/> </a> - Python Library for Data Science by Kaggle 
 
-**Prerequisite: [Python Programming](https://github.com/mrankitgupta/Python-Lessons)**
+**Prerequisite:** <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
 
 |**Sr.No. 🔢**|**Lessons 📕**| **Reference Links :link:**| **Exercises 👨‍💻**|
 |------|--------------------|---------------------|---------------------|
