@@ -61,28 +61,6 @@ For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankit
 |**Python Project 2**| Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 
 
-## Useful sites to learn Coding in Python  :link:
-
-### YouTube Channels:
-
-| [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ) | [Code With Harry](https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww), [Programming With Harry](https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ) | [CodeBasics](https://www.youtube.com/c/codebasics) | [Edureka](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ) | [Gate Smashers](https://www.youtube.com/c/GateSmashers) | [Jenny's Lectures](https://www.youtube.com/c/JennyslecturesCSITNETJRF) | [Simplilearn](https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg) | [Intellipaat](https://www.youtube.com/c/Intellipaat) |
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-
-### Other Learning Platforms:
-
-| [JavaTpoint](https://www.javatpoint.com/) | [TutorialsPoint](https://www.tutorialspoint.com/tutorialslibrary.htm) | [Geeks For Geeks](https://www.geeksforgeeks.org/) | [Code With Harry](https://www.codewithharry.com/) | [GitHub](https://github.com/mrankitgupta) | [Kaggle](https://www.kaggle.com/mrankitgupta) | [DataCamp](https://www.datacamp.com/) | [W3Schools](https://www.w3schools.com/) | [Guru99](https://www.guru99.com/) | [Dev](https://dev.to/mrankitgupta) |
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
- 
-### For Certifications:
-
-| [Coursera](https://coursera.org/share/c40b8f3c3c8ef8195d4dbfe8b2528f4d) | [Kaggle](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) | [Simplilearn](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiI3OTUiLCJjZXJ0aWZpY2F0ZV91cmwiOiJodHRwczpcL1wvY2VydGlmaWNhdGVzLnNpbXBsaWNkbi5uZXRcL3NoYXJlXC90aHVtYl8zMzkyNjI4XzE2NTAxMTE0NzcucG5nIiwidXNlcm5hbWUiOiJBbmtpdCBHdXB0YSJ9&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion) | [Great Learnings](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) | [Forage](https://www.theforage.com/) | [Edureka](https://www.edureka.co/) | [HackerRank](https://www.hackerrank.com/mrankitgupta)  | [Udemy](https://www.udemy.com/) | [Codechef](https://www.codechef.com/)  | [Upgrad](https://www.upgrad.com/) | [Udacity](https://www.udacity.com/) |
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-
-### For Coding Practice:
-| [HackerRank](https://www.hackerrank.com/mrankitgupta) | [Leetcode](https://leetcode.com/mrankitgupta1/) | [Kaggle](https://www.kaggle.com/mrankitgupta) | [Codechef](https://www.codechef.com/) | [Unstop](https://unstop.com/) | [HackerEarth](https://www.hackerearth.com/practice/) | [Codeforces](https://codeforces.com/) | [Interviewbit](https://www.interviewbit.com/) | [Google Dev](https://developers.google.com/) |
-|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|
-
-
 ### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 ## For any queries/doubts 🔗 👇 
