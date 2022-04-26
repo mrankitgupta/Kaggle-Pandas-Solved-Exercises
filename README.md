@@ -6,7 +6,7 @@ For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankit
 
 ### Overview of Pandas - Python Library
 
-
+The **Pandas Library** is arguably the most important library in the Python Data Science stack. It is the library of choice for working with small to medium sized data (anything that isn't quote-unqutoe "big data"). Much to most of the data manipulation that's done in the Python world is done using Pandas memory structures and tools, making it one of the most important libraries in the ecosystem.
 
 <h2 align="left">My Certifications 📜 🎓 ✔️</h2>
 
