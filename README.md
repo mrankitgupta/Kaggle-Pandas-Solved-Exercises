@@ -25,20 +25,6 @@ The **Pandas Library** is arguably the most important library in the Python Data
 - [Statistics for Data Science with Python](https://www.credly.com/badges/354576a0-b672-4245-8cad-82dc3f3df76f/public_url) - by IBM
 
 
-## What are my Featured projects:question: 👨‍💻 🛰️
-
-<code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
-
-<code>[Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)</code> 📊
-
-<code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
-
-<code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 📊
-
-<code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
-
-<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
- 
 ## <a href="https://www.kaggle.com/learn/certification/mrankitgupta/pandas">Pandas</a><a href="https://www.kaggle.com/learn/certification/mrankitgupta/pandas" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="30"/> </a> - Python Library for Data Science by Kaggle 
 
 **Prerequisite:** <code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
@@ -53,13 +39,27 @@ The **Pandas Library** is arguably the most important library in the Python Data
 |6| Renaming and Combining | [TutorialsPoint](https://www.tutorialspoint.com/python_pandas/index.htm)| [Exercise 6](https://www.kaggle.com/code/mrankitgupta/pandas-6-exercise-renaming-and-combining) |
 |7| Pandas-Matplotlib | :white_check_mark:| |
 
-### Projects in Python
+### Projects in Python 👨‍💻
 
 |**Sr.No. 🔢**|**Projects 👨‍💻**| **Reference Links :link:**|
 |------|--------------------|---------------------|
 |**Python Project 1**| Spotify Data Analysis using Python | [GitHub Project](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python) & [Kaggle Notebook](https://www.kaggle.com/code/mrankitgupta/spotify-data-analysis-using-python-project) |
 |**Python Project 2**| Boston Housing Data Analysis using Python | [Project](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python-Project) |
 
+
+## Related Projects:question: 👨‍💻 🛰️
+
+<code>[Data Analyst Roadmap](https://github.com/mrankitgupta/Data-Analyst-Roadmap)</code> :hourglass: 
+
+<code>[Spotify Data Analysis using Python](https://github.com/mrankitgupta/Spotify-Data-Analysis-using-Python)</code> 📊
+
+<code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
+
+<code>[Statistics for Data Science using Python](https://github.com/mrankitgupta/Statistics-for-Data-Science-using-Python)</code> 📊
+
+<code>[Python Lessons](https://github.com/mrankitgupta/PythonLessons)</code> 📑
+
+<code>[Python Libraries for Data Science](https://github.com/mrankitgupta/PythonLibraries)</code> 🗂️
 
 ### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
