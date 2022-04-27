@@ -8,15 +8,13 @@ For more detials, refer: <code>[Data Analyst Roadmap](https://github.com/mrankit
 
 The **Pandas Library** is arguably the most important library in the Python Data Science stack. It is the library of choice for working with small to medium sized data (anything that isn't quote-unqutoe "big data"). Much to most of the data manipulation that's done in the Python world is done using Pandas memory structures and tools, making it one of the most important libraries in the ecosystem.
 
-<h2 align="left">My Certifications 📜 🎓 ✔️</h2>
+<h2 align="left">Certifications 📜 🎓 ✔️</h2>
 
 - [Data Analysis with Python](https://github.com/mrankitgupta) - by IBM
  
 - [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
 
-- [Pandas](https://www.kaggle.com/learn/certification/mrankitgupta/pandas) - by Kaggle
- 
-- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) - by Great Learning
+- [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning 
   
 - [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
 
