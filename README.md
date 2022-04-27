@@ -15,8 +15,6 @@ The **Pandas Library** is arguably the most important library in the Python Data
 - [Data Visualization with Python](https://github.com/mrankitgupta) - by IBM
 
 - [Numpy](https://olympus1.mygreatlearning.com/course_certificate/IQVNJSIN) & [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning 
-  
-- [Matplotlib](https://olympus1.mygreatlearning.com/course_certificate/RNVTUIMW) - by Great Learning
 
 - [Databases and SQL for Data Science with Python](https://github.com/mrankitgupta) - by IBM
 
